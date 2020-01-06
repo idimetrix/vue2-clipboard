@@ -1,6 +1,6 @@
 # vue2-clipboard
 
-A simple vuejs 2 binding for clipboard.js
+A simple vue 2 clipboard directive and $clipboard method
 
 ## Install
 
@@ -53,7 +53,7 @@ new Vue({
   },
   methods: {
     clickHandler1() {
-      this.$clipboard(this.text);
+      this.$clipboard(this.text); // this.$clipboard copy any String/Array/Object you want
     },
     clickHandler2() {},
     clipboardSuccessHandler() {
