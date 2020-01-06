@@ -1,13 +1,20 @@
 {
   "name": "vue2-clipboard",
   "description": "A simple vue 2 clipboard directive and $clipboard method",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Dmitry Selikhov",
     "email": "selikhov.dmitrey@gmail.com",
     "url": "https://www.linkedin.com/in/dimetrix"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue2",
+    "vuejs2",
+    "clipboard",
+    "copy"
+  ],
   "main": "dist/vue2-clipboard.umd.min.js",
   "files": [
     "dist/**/*"
