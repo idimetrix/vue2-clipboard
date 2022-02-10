@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "vue": "^2.6.11"
   },
